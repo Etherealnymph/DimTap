@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一键熄屏</string>
+    <string name="admin_label">一键熄屏 · 设备管理员</string>
+    <string name="admin_description">允许「一键熄屏」锁定屏幕，仅使用 force-lock 一项权限。</string>
+    <string name="admin_explanation">开启后，点击桌面图标即可立即熄灭屏幕。该权限只用于锁定屏幕，不涉及数据擦除、密码或任何其他能力。</string>
+    <string name="enabled_hint">已启用，点击图标即可熄屏</string>
+    <string name="lock_failed">熄屏失败，请在系统设置中重新启用设备管理员</string>
+    <string name="no_admin">当前设备不支持设备管理员，无法熄屏</string>
+    <string name="disable_warning">关闭后，点击图标将无法再熄灭屏幕。</string>
+    <string name="error_title">熄屏失败</string>
+    <string name="error_hint">请截图这一页反馈给开发者，按返回键可关闭。如果反复出现，可以在系统设置里检查「设备管理应用」中是否已启用「一键熄屏」。</string>
+    <string name="crash_title">上次启动崩溃了</string>
+</resources>

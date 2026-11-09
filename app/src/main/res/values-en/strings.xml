@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dim Tap</string>
+    <string name="admin_label">Dim Tap · Device admin</string>
+    <string name="admin_description">Lets Dim Tap lock the screen. Only the force-lock policy is used.</string>
+    <string name="admin_explanation">Once enabled, tapping the launcher icon turns the screen off immediately. This grant is only used to lock the screen — no wipe, no password, nothing else.</string>
+    <string name="enabled_hint">Enabled — tap the icon to turn the screen off</string>
+    <string name="lock_failed">Could not lock the screen. Re-enable device admin in Settings.</string>
+    <string name="no_admin">Device admin is not available on this device</string>
+    <string name="disable_warning">Without this, tapping the icon can no longer turn the screen off.</string>
+    <string name="error_title">Could not turn the screen off</string>
+    <string name="error_hint">Please screenshot this page, then press Back to close it. If it keeps happening, check that Dim Tap is active under Settings → Device admin apps.</string>
+    <string name="crash_title">The last launch crashed</string>
+</resources>
